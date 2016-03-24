@@ -24,3 +24,6 @@ input
 	text-overflow:ellipsis;
 	white-space: nowrap;
 }
+body {
+	min-width: 1200px;
+}
